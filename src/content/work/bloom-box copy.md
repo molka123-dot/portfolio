@@ -11,7 +11,7 @@ tags:
 ---
 ## Description 
 Ce projet vise à développer un système d'ETL (Extract, Transform, Load) intégré à Power BI afin de créer un tableau de bord interactif et informatif pour surveiller la production au sein de l'entreprise Sagemcom. L'ETL sera chargé de collecter, nettoyer, transformer et intégrer les données de production provenant de différentes sources, ce qui permettra aux décideurs de Sagemcom de prendre des décisions éclairées basées sur des informations en temps réel.
-## language 
+## langage 
 python
  
 ## outils

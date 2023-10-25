@@ -20,5 +20,5 @@ Analyse univariée / Analyse bivariée / Analyse multivariée
 ## outils
 Anaconda 3 / Jupyter
 
-## language
+## langage
 python / R 
